@@ -1,4 +1,4 @@
-package com.qacaffe.examples;
+package com.qacaffe.examples.String;
 
 public class StringConcatenation2 {
     public static void main(String[] args) {

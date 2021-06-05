@@ -1,4 +1,4 @@
-package com.qacaffe.examples;
+package com.qacaffe.gists;
 
 public class Lamp {
 
