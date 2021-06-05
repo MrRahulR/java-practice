@@ -1,4 +1,4 @@
-package com.qacaffe.examples;
+package com.qacaffe.examples.Operators;
 
 public class AssignmentOperator {
     public static void main(String[] args) {

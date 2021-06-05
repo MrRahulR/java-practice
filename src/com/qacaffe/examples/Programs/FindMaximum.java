@@ -1,4 +1,4 @@
-package com.qacaffe.examples;
+package com.qacaffe.examples.Programs;
 
 import java.util.Scanner;
 
